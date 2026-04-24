@@ -1,0 +1,6 @@
+network_generator.py
+psi_dynamics.py
+knot_detector.py
+topological_calculations.py
+visualization.py
+knotsim_main.py
